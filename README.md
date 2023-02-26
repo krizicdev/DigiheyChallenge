@@ -13,7 +13,7 @@ npm start - to run backend
 
 open index.html from Encoder folder
 
-login
+login with given credentials
 
 
 
