@@ -1,11 +1,17 @@
 # DigiheyChallenge
 
+Open folder in text editor
+
+Open terminal
+
+cd code-challenge-master
 
 npm install
 
+npm test - to run test/backend
 npm start - to run backend
 
-open index.html
+open index.html from Encoder folder
 
 login
 
